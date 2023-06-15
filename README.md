@@ -1,3 +1,0 @@
-# pythonprojects
-
-college exercises
